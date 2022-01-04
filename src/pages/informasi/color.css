@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+.c1 {
+  background: rgba(53, 255, 103, 0.3);
+  color: gra;
+  font-family: Montserrat;
+  font-size: x-large;
+  font-weight: 800;
+  text-align: center;
+  text-decoration: none;
+  position: absolute;
+  padding-top: 5%;    
+  height: 80%;   
+  width: 33.3%;
+  top: 0%;
+  left: 0%;
+}
+.c2 {
+  background: rgba(48, 62, 255, 0.3);
+  color: beige;
+  font-family: Montserrat;
+  font-size: x-large;
+  font-weight: 800;
+  text-align: center;
+  text-decoration: none;
+  position: absolute;
+  padding-top: 5%;    
+  height: 80%;   
+  width: 33.3%;
+  top: 0%;
+}
+.c3 {
+  background: rgba(255, 17, 17, 0.3);
+  color: beige;
+  font-family: Montserrat;
+  font-size: x-large;
+  font-weight: 800;
+  text-align: center;
+  text-decoration: none;
+  position: absolute;
+  padding-top: 5%;    
+  height: 80%;   
+  width: 33.3%;
+  top: 0%;
+  left: 66.7%;
+}
